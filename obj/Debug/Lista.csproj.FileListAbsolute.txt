@@ -1,0 +1,120 @@
+C:\Users\crist\Desktop\Lista\bin\Debug\Lista.exe.config
+C:\Users\crist\Desktop\Lista\bin\Debug\Lista.exe
+C:\Users\crist\Desktop\Lista\bin\Debug\Lista.pdb
+C:\Users\crist\Desktop\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Lista\obj\Debug\Lista.FormLista.resources
+C:\Users\crist\Desktop\Lista\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\crist\Desktop\Lista\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Lista\obj\Debug\Lista.exe
+C:\Users\crist\Desktop\Lista\obj\Debug\Lista.pdb
+C:\Users\magrini.20093\Downloads\Lista\Lista\bin\Debug\Lista.exe.config
+C:\Users\magrini.20093\Downloads\Lista\Lista\bin\Debug\Lista.exe
+C:\Users\magrini.20093\Downloads\Lista\Lista\bin\Debug\Lista.pdb
+C:\Users\magrini.20093\Downloads\Lista\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\magrini.20093\Downloads\Lista\Lista\obj\Debug\Lista.FormLista.resources
+C:\Users\magrini.20093\Downloads\Lista\Lista\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\magrini.20093\Downloads\Lista\Lista\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\magrini.20093\Downloads\Lista\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\magrini.20093\Downloads\Lista\Lista\obj\Debug\Lista.exe
+C:\Users\magrini.20093\Downloads\Lista\Lista\obj\Debug\Lista.pdb
+C:\Users\magrini.20093\Downloads\Lista\Lista\Lista\bin\Debug\Lista.exe.config
+C:\Users\magrini.20093\Downloads\Lista\Lista\Lista\bin\Debug\Lista.exe
+C:\Users\magrini.20093\Downloads\Lista\Lista\Lista\bin\Debug\Lista.pdb
+C:\Users\magrini.20093\Downloads\Lista\Lista\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\magrini.20093\Downloads\Lista\Lista\Lista\obj\Debug\Lista.FormLista.resources
+C:\Users\magrini.20093\Downloads\Lista\Lista\Lista\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\magrini.20093\Downloads\Lista\Lista\Lista\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\magrini.20093\Downloads\Lista\Lista\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\magrini.20093\Downloads\Lista\Lista\Lista\obj\Debug\Lista.exe
+C:\Users\magrini.20093\Downloads\Lista\Lista\Lista\obj\Debug\Lista.pdb
+C:\Users\magrini.20093\Desktop\Lista\bin\Debug\Lista.exe.config
+C:\Users\magrini.20093\Desktop\Lista\bin\Debug\Lista.exe
+C:\Users\magrini.20093\Desktop\Lista\bin\Debug\Lista.pdb
+C:\Users\magrini.20093\Desktop\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\magrini.20093\Desktop\Lista\obj\Debug\Lista.FormLista_Grafo.resources
+C:\Users\magrini.20093\Desktop\Lista\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\magrini.20093\Desktop\Lista\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\magrini.20093\Desktop\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\magrini.20093\Desktop\Lista\obj\Debug\Lista.exe
+C:\Users\magrini.20093\Desktop\Lista\obj\Debug\Lista.pdb
+C:\Users\crist\Desktop\Lista e Grafo\bin\Debug\Lista.exe.config
+C:\Users\crist\Desktop\Lista e Grafo\bin\Debug\Lista.exe
+C:\Users\crist\Desktop\Lista e Grafo\bin\Debug\Lista.pdb
+C:\Users\crist\Desktop\Lista e Grafo\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Lista e Grafo\obj\Debug\Lista.FormLista_Grafo.resources
+C:\Users\crist\Desktop\Lista e Grafo\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\crist\Desktop\Lista e Grafo\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Lista e Grafo\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Lista e Grafo\obj\Debug\Lista.exe
+C:\Users\crist\Desktop\Lista e Grafo\obj\Debug\Lista.pdb
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.exe.config
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.exe
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.pdb
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.FormLista_Grafo.resources
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.exe
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.pdb
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.exe.config
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.exe
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.pdb
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.FormLista_Grafo.resources
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.exe
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.pdb
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.exe.config
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.exe
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.pdb
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.FormLista_Grafo.resources
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.exe
+C:\Users\crist\Desktop\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.pdb
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.exe.config
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.exe
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.pdb
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.FormLista_Grafo.resources
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.exe
+C:\Users\magrini.20093\Downloads\Lista e Grafo\Lista e Grafo\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.pdb
+C:\Users\magrini.20093\Desktop\Lista e Grafo\bin\Debug\Lista.exe.config
+C:\Users\magrini.20093\Desktop\Lista e Grafo\bin\Debug\Lista.exe
+C:\Users\magrini.20093\Desktop\Lista e Grafo\bin\Debug\Lista.pdb
+C:\Users\magrini.20093\Desktop\Lista e Grafo\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\magrini.20093\Desktop\Lista e Grafo\obj\Debug\Lista.FormLista_Grafo.resources
+C:\Users\magrini.20093\Desktop\Lista e Grafo\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\magrini.20093\Desktop\Lista e Grafo\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\magrini.20093\Desktop\Lista e Grafo\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\magrini.20093\Desktop\Lista e Grafo\obj\Debug\Lista.exe
+C:\Users\magrini.20093\Desktop\Lista e Grafo\obj\Debug\Lista.pdb
+C:\Users\Sorint\Downloads\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.exe.config
+C:\Users\Sorint\Downloads\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.exe
+C:\Users\Sorint\Downloads\Lista e Grafo\Lista e Grafo\bin\Debug\Lista.pdb
+C:\Users\Sorint\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\Sorint\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.FormLista_Grafo.resources
+C:\Users\Sorint\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\Sorint\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\Sorint\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\Sorint\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.exe
+C:\Users\Sorint\Downloads\Lista e Grafo\Lista e Grafo\obj\Debug\Lista.pdb
+C:\Users\Sorint\Desktop\Lista e Grafo\bin\Debug\Lista.exe.config
+C:\Users\Sorint\Desktop\Lista e Grafo\bin\Debug\Lista.exe
+C:\Users\Sorint\Desktop\Lista e Grafo\bin\Debug\Lista.pdb
+C:\Users\Sorint\Desktop\Lista e Grafo\obj\Debug\Lista.csproj.AssemblyReference.cache
+C:\Users\Sorint\Desktop\Lista e Grafo\obj\Debug\Lista.FormLista_Grafo.resources
+C:\Users\Sorint\Desktop\Lista e Grafo\obj\Debug\Lista.Properties.Resources.resources
+C:\Users\Sorint\Desktop\Lista e Grafo\obj\Debug\Lista.csproj.GenerateResource.cache
+C:\Users\Sorint\Desktop\Lista e Grafo\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\Sorint\Desktop\Lista e Grafo\obj\Debug\Lista.exe
+C:\Users\Sorint\Desktop\Lista e Grafo\obj\Debug\Lista.pdb
